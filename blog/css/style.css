@@ -1,0 +1,115 @@
+h1{
+	text-align: center;
+	font-family: feeding a moment;
+	font-size: 90px;
+	color:#FF298D;
+}
+header li{
+	display: inline;
+	padding-right: 10px;
+	font-size: 20px;
+	color: white;
+	background-image: url("images/picture.jpeg");
+}
+nav{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	color: white;
+	text-align: center;
+}
+
+
+body{
+	background-color: #000000;
+}
+p{
+	font-family:Code-Bold;
+	font-size: 15px;
+	text-align: justify;
+	color:white;
+}
+.derpa{
+	margin-top: 50px;
+	float: left;
+	width: 45%;
+	margin-right: 10px;
+	margin-left: 50px;
+	border-style: solid;
+	border-spacing: 20px;
+	height: 20px;
+}
+.derpb{
+	margin-top: 50px;
+	float: right;
+	width: 45%;
+	margin-right: 50px;
+	margin-left: 10px;
+	border-style: solid;
+	border-spacing: 30px;
+	height: 200px;
+}
+header{
+	background-image: url("images/ASTERISKO.jpg");
+}
+h2{
+	text-align: center;
+	font-family: feeding a moment;
+	font-size: 70px;
+	color:#CF176D;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
+}
+
+li {
+    float: left;
+    border-right:1px solid #bbb
+    display: inline;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #000000;
+}
+header li{
+	display: inline;
+	padding-right: 10px;
+	font-size: 20px;
+
+}
+footer{
+
+	margin-top: 700px;
+	background-color: #bada52;
+
+}
+
+
+footer{
+
+	margin-top: 400px;
+	background-color: white;
+    font-family: feeding a moment;
+    color: black;
+}
